@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: white;
 }
 
 /*Tobias*/
@@ -9,4 +9,9 @@ body{
     height:80vh;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+/* Valentina */
+.first_heading img{
+    height: 270px;
 }
