@@ -15,3 +15,20 @@ body{
 .first_heading img{
     height: 270px;
 }
+
+/* Michel */
+.navbar {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+    overflow: hidden;
+}
+
+.nav-link {
+    color: gray !important;
+}
