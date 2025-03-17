@@ -10,6 +10,13 @@ body{
     background-position: center;
     background-repeat: no-repeat;
 }
+.tagline-title{
+    font-size: 7vw;
+}
+
+.tagline-subtitle{
+    font-size: 4vw;
+}
 
 /* Valentina */
 .first_heading img{
